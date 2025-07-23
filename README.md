@@ -5,7 +5,7 @@ Website bán hàng Puma được xây dựng bằng HTML, CSS (Bootstrap) và Ja
 ##  Cài đặt & Chạy thử
 
 1. Tải mã nguồn về (Download ZIP hoặc clone repo)
-2. Mở file `trangchu.html` trong trình duyệt để bắt đầu thao tác với trang web
+2. Mở file `index.html` trong trình duyệt để bắt đầu thao tác với trang web
 3. Chức năng chính:
    - Hiển thị sản phẩm
    - Chọn mục phù hợp: Nam, nữ, trẻ em, khuyến mãi,...
