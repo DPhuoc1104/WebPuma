@@ -35,7 +35,7 @@ Website bán hàng Puma được xây dựng bằng HTML, CSS (Bootstrap) và Ja
  
 - Link Figma thiết kế: ([https://www.figma.com/file/your-figma-link](https://www.figma.com/design/BoTDLS46aeVtUKeose3mRN/Puma--Community-?node-id=0-1&t=M797fR6WhAA5aVfJ-1))
 
-- https://serene-monstera-3f218c.netlify.app/
+- Publish: https://serene-monstera-3f218c.netlify.app/
 
 
 ##  Thành viên
