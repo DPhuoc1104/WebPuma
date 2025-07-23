@@ -16,7 +16,7 @@ Website bán hàng Puma được xây dựng bằng HTML, CSS (Bootstrap) và Ja
 
 ##  Cấu trúc thư mục 
 
-- `trangchu.html`: Trang chủ
+- `index.html`: Trang chủ
 - `sanpham.html`: Danh sách tất cả sản phẩm
 - `nam.html`: Sản phẩm nam
 - `nu.html`: Sản phẩm nữ
@@ -31,7 +31,7 @@ Website bán hàng Puma được xây dựng bằng HTML, CSS (Bootstrap) và Ja
 
 ##  Tài liệu & Figma
 
-- File báo cáo: [Báo Cáo Đồ án.docx](https://github.com/user-attachments/files/21350325/Bao.Cao.D.an.docx)
+- File báo cáo: ([Báo Cáo Đồ án.docx](https://github.com/user-attachments/files/21390236/Bao.Cao.D.an.docx)
  
 - Link Figma thiết kế: ([https://www.figma.com/file/your-figma-link](https://www.figma.com/design/BoTDLS46aeVtUKeose3mRN/Puma--Community-?node-id=0-1&t=M797fR6WhAA5aVfJ-1))
 
