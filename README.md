@@ -35,11 +35,10 @@ Website bán hàng Puma được xây dựng bằng HTML, CSS (Bootstrap) và Ja
  
 - Link Figma thiết kế: ([https://www.figma.com/file/your-figma-link](https://www.figma.com/design/BoTDLS46aeVtUKeose3mRN/Puma--Community-?node-id=0-1&t=M797fR6WhAA5aVfJ-1))
 
-- Publish: https://sunny-hotteok-e476e1.netlify.app/
+- Publish: https://silver-heliotrope-6f849b.netlify.app/
 
 ##  Thành viên
 
-- Nguyễn Đoàn Minh Thi - 2274802010829
 - Nguyễn Đức Phước – 2374802010402
 - Lê Lý Minh Thọ - 2374802010481
 
